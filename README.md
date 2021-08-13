@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy! Nice to see you 👋
 
 <!--
 **ponchotitlan/ponchotitlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Alfonso (Poncho): a Telematics Engineer from 🇲🇽
+- ☎️ Currently working as a Collaboration Engineer (Voice|Video|Software) @ Cisco México
+- 💻 DevNet Advocate: Passionate about networks coding, automation & orchestration
+- 💬 Crazy for languages: Spanish | English | French | Portuguese | Japanese (in the works)
+- 📣 Favorite word: *Apapacho* (MX Spanish: *"A hug with the soul"*)
+- 🌐 Wanderlust lover
+- 👨‍🚀 Pronouns: He/Him/His
+- 📪 How to reach me: [LinkedIn](https://www.linkedin.com/in/asandovalros/)
