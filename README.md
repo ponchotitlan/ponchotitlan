@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am Alfonso (Poncho): a Telematics Engineer from 🇲🇽
 - ☎️ Currently working as a Collaboration Engineer (Voice|Video|Software) @ Cisco México
-- 💻 DevNet Advocate [and Evangelist](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm): Passionate about networks coding, automation & orchestration
+- 💻 [DevNet Advocate and Evangelist](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm): Passionate about networks coding, automation & orchestration
 - 💬 Crazy for languages: Spanish | English | French | Portuguese | Japanese (in the works)
 - 📣 Favorite word: *Apapacho* (MX Spanish: *"A hug with the soul"*)
 - 🌐 Wanderlust lover
