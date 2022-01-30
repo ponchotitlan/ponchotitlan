@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Alfonso (Poncho): a Telematics Engineer from 🇲🇽
+I am Poncho: a Telematics Engineer from 🇲🇽
 - 💥 Currently working as a Software Consulting Engineer (Networks Automation & Orchestration) @ Cisco Lisbon 🇵🇹
-- 💻 [DevNet Advocate and Evangelist](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm): Passionate about the next-gen networks programmability!
+- 💻 [DevNet Advocate and Evangelist](https://community.cisco.com/t5/eventos-general/devnet-en-acci%C3%B3n-tips-temas-claves-y-mejores-pr%C3%A1cticas-cl-evento/ba-p/4310121?utm_campaign=cl-sp-devent-comienzo-mar2021&utm_medium=referral&utm_source=sm): Passionate about the next-gen networks programmability
 - 💬 Crazy for languages: Spanish | English | French | Portuguese | Japanese (in the works)
 - 📣 Favorite word: *Apapacho* (MX Spanish: *"A hug with the soul"*)
 - 🌐 Wanderlust lover
 - 👨‍🚀 Pronouns: He/Him/His
-- 📪 How to reach me: [LinkedIn](https://www.linkedin.com/in/asandovalros/)
