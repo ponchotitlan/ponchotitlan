@@ -1,4 +1,4 @@
-### Howdy! Nice to see you ✌️
+### 👋 Howdy! Nice to see you
 
 <!--
 **ponchotitlan/ponchotitlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
