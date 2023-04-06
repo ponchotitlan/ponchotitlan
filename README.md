@@ -26,6 +26,8 @@ Some of my Tech advocacy talks and posts! (Always open to publish something tecc
 
 🎤 (Feb, 2023) **[Cisco Live Amsterdam 2023](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722413868001tRad):** _"Testing and Deployment of NSO Use Cases with a CI/CD State of Mind – DEVNET-2535"_
 
+🎤 (Nov, 2022) **[WITCOM Workshop in Telematics and Computing 2022 (ES-MX)](https://www.facebook.com/WITCOMConferences/videos/486035753588634):** _"De NetDevOps y otros romances: Automatizando las redes de datos con el poder del coding"_
+
 🎤 (June, 2022) **[Cisco Live Las Vegas 2022](https://www.ciscolive.com/on-demand/on-demand-library.html?search=alfonso#/session/1675722411262001tQK7):** _"“Hello! How can I help you today?” Conversational Experiences in our Contact Center with Google DialogFlow and the Power of Code – DEVNET-2222"_
 
 🎤 (May, 2022) **[Cisco Automation DevDays 2022](https://www.youtube.com/watch?v=0bWm1q6V0qM&ab_channel=CiscoNSODeveloperHub):** _"Enhanced Compliance Reporting: A development journey"_
