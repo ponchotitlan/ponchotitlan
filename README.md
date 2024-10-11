@@ -24,6 +24,9 @@ I am Poncho: a Telematics Engineer from 🇲🇽
 
 Some of my Tech advocacy talks and posts! (Always open to publish something tecchy or to grab the mic)
 
+🎤 **[Open Source Summit Europe 2024](https://www.youtube.com/watch?v=qcl2sYVTo8M&list=PLbzoR-pLrL6rC7SpO7MJCZm22Qp5ns3p-&index=49&ab_channel=TheLinuxFoundation):** 
+_"Data Networks Neutrality with OpenConfig: Unveiling Challenges and Practical Insights"_
+
 🏛️ **[NOVA Universidade de Lisboa - Faculdade de Engenharia](https://github.com/ponchotitlan/NOVA_code_is_the_new_CLI):** 
 _"Code is the new CLI"_
 
