@@ -19,7 +19,6 @@ I am Poncho: a Lego figure from 🇲🇽
 - 💬 **Crazy for languages:** Spanish | English | French | Portuguese | Japanese (in the works)
 - 📣 **Favorite word:** *Apapacho* (MX Spanish: *"A hug with the soul"*)
 - 🌐 **Wanderlust lover**
-- 👨‍🚀 **Pronouns:** He/Him/His
 
 Some of my Tech advocacy talks and posts! (Always open to publish something tecchy or to grab the mic)
 
