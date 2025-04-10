@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Poncho: a Telematics Engineer from 🇲🇽
-- 💥 Currently working as a Software Consulting Engineer (Networks Automation & Orchestration) @ Cisco Lisbon 🇵🇹
+- 💥 Currently working as a Senior Software Consulting Engineer (Networks Automation & Orchestration) @ Cisco Lisbon 🇵🇹
 - 💻 **DevNet Advocate and Evangelist:** Passionate about the next-gen networks programmability
 - 💬 **Crazy for languages:** Spanish | English | French | Portuguese | Japanese (in the works)
 - 📣 **Favorite word:** *Apapacho* (MX Spanish: *"A hug with the soul"*)
