@@ -1,5 +1,3 @@
-### 👋 Howdy! Nice to see you
-
 <!--
 **ponchotitlan/ponchotitlan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Poncho: a Lego figure from 🇲🇽
-- 💥 Currently working as a Senior Software Consulting Engineer (Networks Automation & Orchestration) @ Cisco Lisbon 🇵🇹
-- 💬 **Crazy for languages:** Spanish | English | French | Portuguese | Japanese (in the works)
-- 📣 **Favorite word:** *Apapacho* (MX Spanish: *"A hug with the soul"*)
-- 🌐 **Wanderlust lover**
+```
+📄 hey_there.yaml
+------------------------------------
+profile:
+ name: ☕👋🏼 Alfonso (Poncho in ES-MX)
+ description: 🙋 (Very) passionate about the worlds of Software Development, Automation, Developer Advocacy, and everything in between
+ currently_working_as: 👾 Developer Advocate @ Cisco Systems
+ location: 📍🇵🇹 Lisbon, Portugal
+
+experience:
+ - 💻 Software Engineering
+ - 🔁 DevOps & NetDevOps
+ - 🤖 Network Automation & Orchestration
+
+dev_advocacy:
+ - 🎤 Tech Public Speaking & Demoing
+ - 🎓 University masterclasses
+ - 👾 Coding clubs org
+
+interests:
+ - ✈️ Wanderlust (born with "itchy feet")
+ - 📣 Learning languages (ES,EN,FR,PT,JP - in the works). My favorite word: "apapacho" - Hug with your soul in Náhuatl language
+```
