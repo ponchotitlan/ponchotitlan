@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 📄 hey_there.yaml
 ------------------------------------
 profile:
- name: ☕👋🏼 Alfonso (Poncho in ES-MX)
- description: 🙋 (Very) passionate about the worlds of Software Development, Automation, Developer Advocacy, and everything in between
+ name: 👋🏼 Alfonso (Poncho in ES-MX)
  currently_working_as: 👾 Developer Advocate @ Cisco Systems
  location: 📍🇵🇹 Lisbon, Portugal
 
@@ -33,5 +32,6 @@ dev_advocacy:
 
 interests:
  - ✈️ Wanderlust (born with "itchy feet")
- - 📣 Learning languages (ES,EN,FR,PT,JP - in the works). My favorite word: "apapacho" - Hug with your soul in Náhuatl language
+ - 📣 Learning languages (ES,EN,FR,PT,JP - in the works)
+ - 💬 My favorite word: "apapacho" - Hug with your soul - in Náhuatl
 ```
